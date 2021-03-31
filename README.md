@@ -23,9 +23,6 @@ Google Colab was used for training the model. The Colab provides 12 hours of fre
  2.1 BSL Digits https://www.sciencedirect.com/science/article/pii/S2405959520301685
  2.2 BSL Alphabets https://ieeexplore.ieee.org/document/9310955
  
- Preprocessing
- Data preprocessing codes are in Code Folder
- 
  # Note: 
  1. Data preprocessing codes are given in folder named Codes
  2. Clone Model folder to your local system and follow instruction given in steps.txt file to run
