@@ -53,25 +53,25 @@ while True:
 
     
     if predDzo == '༠':
-        im = cv2.imread('./number/zero.jpg',1)
+        im = cv2.imread('./Number/zero.jpg',1)
     if predDzo == '༡':
-        im = cv2.imread('./number/one.jpg',1)
+        im = cv2.imread('./Number/one.jpg',1)
     if predDzo == '༢':
-        im = cv2.imread('./number/two.jpg',1)
+        im = cv2.imread('./Number/two.jpg',1)
     if predDzo == '༣':
-        im = cv2.imread('./number/three.jpg',1)
+        im = cv2.imread('./Number/three.jpg',1)
     if predDzo == '༤':
-        im = cv2.imread('./number/four.jpg',1)
+        im = cv2.imread('./Number/four.jpg',1)
     if predDzo == '༥':
-        im = cv2.imread('./number/five.jpg',1)
+        im = cv2.imread('./Number/five.jpg',1)
     if predDzo == '༦':
-        im = cv2.imread('./number/six.jpg',1)
+        im = cv2.imread('./Number/six.jpg',1)
     if predDzo == '༧':
-        im = cv2.imread('./number/seven.jpg',1)
+        im = cv2.imread('./Number/seven.jpg',1)
     if predDzo == '༨':
-        im = cv2.imread('./number/eight.jpg',1)
+        im = cv2.imread('./Number/eight.jpg',1)
     if predDzo == '༩':
-        im = cv2.imread('./number/nine.jpg',1)
+        im = cv2.imread('./Number/nine.jpg',1)
       
     cv2.imshow('image',im)
     print(predDzo)
