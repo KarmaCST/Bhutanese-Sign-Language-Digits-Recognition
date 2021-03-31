@@ -26,3 +26,6 @@ Google Colab was used for training the model. The Colab provides 12 hours of fre
  ## Note: 
  1. Data preprocessing codes are given in folder named Codes
  2. Clone Model folder to your local system and follow instruction given in steps.txt file to run
+ 3. Image Data Folder:- Train a model reading image from train and test folder
+ 4. PickledData Folder:- Train a model using pickled data from x.pkl and y.pkl
+ 5. Model Folder:- It contains trained model and deployment code using VS Code, OpenCV and Laptop Webcamb.
