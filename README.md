@@ -10,3 +10,18 @@ Therefore, images are serialized using pickling. The pickling reduces the traini
 
 # 3. Model Training
 Google Colab was used for training the model. The Colab provides 12 hours of free usage of GPU 1xTesla K80 with 2496 cores for the 12 GB GDDR5 and CPU 1xsingle core Xeon Processors @ 2.5 GHz with 45 MB cache. The model was save and deployed using local system (laptop).
+
+# 4. Requirement
+Following tools are required:
+1. Python
+2. Tensorflow and Keras
+3. OpenCV
+
+# 5. Videos and Paper links
+1. Video https://www.youtube.com/watch?v=e9ecPAao9ls
+2. Paper
+ 2.1 BSL Digits https://www.sciencedirect.com/science/article/pii/S2405959520301685
+ 2.2 BSL Alphabets https://ieeexplore.ieee.org/document/9310955
+ 
+ 
+
