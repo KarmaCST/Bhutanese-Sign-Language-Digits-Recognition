@@ -1,5 +1,5 @@
 
-<h3>Place folder and files in the following hirarchy:</h3>
+Place folder and files in the following hirarchy:
 Model
   |---Number
   |     |---zero.jpg
