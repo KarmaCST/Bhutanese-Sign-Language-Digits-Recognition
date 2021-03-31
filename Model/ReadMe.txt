@@ -1,5 +1,5 @@
 
-Place folder and files in the following hirarchy:
+<h3>Place folder and files in the following hirarchy:</h3>
 Model
   |---Number
   |     |---zero.jpg
@@ -16,7 +16,7 @@ Model
   |---BSLModel.h5
   |---predictDigits.py
   
-# Set up Environment
+Set up Environment
  1. Install VS code
  2. Install Python
  3. Install OpenCV
