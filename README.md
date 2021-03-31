@@ -6,12 +6,13 @@ Bhutanese Sign Language (BSL) is a language used by the Deaf in Bhutan. BSL, lik
   ![BSLNumber](https://user-images.githubusercontent.com/43682761/113140981-f3c5e500-924a-11eb-9d1c-bb1d90b1d473.gif)
 </p>
 
+<img src="https://user-images.githubusercontent.com/43682761/113140981-f3c5e500-924a-11eb-9d1c-bb1d90b1d473.gif" width="700" height="200">
 
 ## 2. Dataset
 There are 10 digits in BSL. Videos were recorded from different actors and then frames were extracted. In the data pre-processing, these frames were augmented using different augmentation techniques such as morphological transformation, saturation, addition and subtraction of colours, etc. The BSL digits dataset consisted of 20K (2000/class) images of varying resolutions. However, these images are further rescaled to 64x64x3 pixels at the time of training the model to reduce the training time but still it takes more time to train the model.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43682761/113141804-fd9c1800-924b-11eb-894e-99c919f26df8.jpg" width="900" height="200">
+<img src="https://user-images.githubusercontent.com/43682761/113141804-fd9c1800-924b-11eb-894e-99c919f26df8.jpg" width="700" height="200">
 </p>
 Therefore, images are serialized using pickling. The pickling reduces the training time almost by half.
 
