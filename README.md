@@ -30,10 +30,10 @@ Google Colab was used for training the model. The Colab provides 12 hours of fre
  2.2 BSL Alphabets https://ieeexplore.ieee.org/document/9310955
  
  ## Note: 
- 1. Data preprocessing codes are given in folder named Codes
- 2. Clone Model folder to your local system and follow instruction given in steps.txt file to run
- 3. Image Data Folder:- Train a model reading image from train and test folder
- 4. PickledData Folder:- Train a model using pickled data from x.pickle and y.pickle
+ 1. Data preprocessing codes are given in folder named Codes.
+ 2. Clone Model folder to your local system and follow the instruction given in the steps.txt file to execute codes.
+ 3. Image Data Folder:- Train a model reading image from train and test folders.
+ 4. PickledData Folder:- Train a model using pickled data from x.pickle and y.pickle.
  5. Model Folder:- It contains trained model and deployment code using VS Code, OpenCV and Laptop Webcamb.
 
 # Citation
