@@ -35,3 +35,6 @@ Google Colab was used for training the model. The Colab provides 12 hours of fre
  3. Image Data Folder:- Train a model reading image from train and test folder
  4. PickledData Folder:- Train a model using pickled data from x.pkl and y.pkl
  5. Model Folder:- It contains trained model and deployment code using VS Code, OpenCV and Laptop Webcamb.
+
+# Citation
+Wangchuk, K., Riyamongkol, P., & Waranusast, R. (2020). Real-time Bhutanese Sign Language digits recognition system using Convolutional Neural Network. ICT Express.
