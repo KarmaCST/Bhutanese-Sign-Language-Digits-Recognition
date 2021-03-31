@@ -1,2 +1,0 @@
-# Image Serialization using Pickling
-BSL Hand-shaped Digits are serialized to reduce the training time.
