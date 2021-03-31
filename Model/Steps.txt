@@ -1,0 +1,12 @@
+
+# File Label
+Model
+  |---Number
+  |     |
+  |---BSLModel.h5
+  |---predictDigits.py
+  
+ 1. Install Python
+ 2. Install Tensorflow and Keras
+ 3. Install OpenCV
+ 4. Run predictDigits.py
