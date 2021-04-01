@@ -3,7 +3,7 @@
 
 Place folder and files in the following hirarchy:
 
-<img src="https://user-images.githubusercontent.com/43682761/113236023-e994fc80-92c5-11eb-95eb-e1076e6e6717.png" width="100" height="400">
+<img src="https://user-images.githubusercontent.com/43682761/113236023-e994fc80-92c5-11eb-95eb-e1076e6e6717.png" width="150" height="300">
  
   
 ## Set up Environment
