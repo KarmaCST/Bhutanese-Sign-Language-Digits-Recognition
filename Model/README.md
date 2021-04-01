@@ -2,7 +2,8 @@
 # Folder Hirarchy
 
 Place folder and files in the following hirarchy:
-<P>Model
+
+Model
   |---Number
   |     |---zero.jpg
   |     |---one.jpg
@@ -17,9 +18,9 @@ Place folder and files in the following hirarchy:
   |
   |---BSLModel.h5
   |---predictDigits.py
-  </p>
+  
 ## Set up Environment
- 1. Install VS code
+ 1. Install VS code 
  2. Install Python
  3. Install OpenCV
  4. Install Tensorflow and Keras
