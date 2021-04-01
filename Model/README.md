@@ -3,10 +3,7 @@
 
 Place folder and files in the following hirarchy:
 
-Model
- |--Karma
- |
- |
+<img src="https://user-images.githubusercontent.com/43682761/113236023-e994fc80-92c5-11eb-95eb-e1076e6e6717.png" width="500" height="200">
  
 Model
   |---Number
