@@ -1,7 +1,8 @@
 
 # Folder Hirarchy
+
 Place folder and files in the following hirarchy:
-Model
+<P>Model
   |---Number
   |     |---zero.jpg
   |     |---one.jpg
@@ -16,7 +17,7 @@ Model
   |
   |---BSLModel.h5
   |---predictDigits.py
-  
+  </p>
 ## Set up Environment
  1. Install VS code
  2. Install Python
