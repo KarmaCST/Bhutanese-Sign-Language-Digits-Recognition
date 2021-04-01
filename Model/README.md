@@ -4,6 +4,11 @@
 Place folder and files in the following hirarchy:
 
 Model
+ |--Karma
+ |
+ |
+ 
+Model
   |---Number
   |     |---zero.jpg
   |     |---one.jpg
