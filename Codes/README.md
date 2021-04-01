@@ -1,3 +1,4 @@
+# Code
 This CODE FOLDER contains preprocessing codes:
 1. To capture images from Webcamb.
 2. Augmentation of a images with different methods.
